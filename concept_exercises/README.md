@@ -32,4 +32,18 @@ File 6.fork+wait+execve.c - Exercise: fork + wait + execve Write a program that 
 child processes. Each child should be created by the same process (the father). Wait for a child to exit before creating a
 new child.
 
+File 7.0.stat.c - The stat(man 2 stat) system call gets the status of a file. On success, zero is returned. On error, -1 is returned.
+
+File 7.1.file_path - Write a program that looks for files in the current PATH.
+
+File 8.0.env-main.c - is a program that can be used to list the environmental variables and values  ( command printenv).
+
+File 8.1.environ.c - Write a program that prints the environment using the global variable environ
+
+File 8.2.print_env_address.c - Write a program that prints the address of env (the third parameter of the main function) and environ (the global variable). Are they they same? Does this make sense?
+
+File 8.3.getenv.c - Write a function that gets an environment variable. (without using getenv)
+Prototype: char *_getenv(const char *name);
+man 3 getenv
+
 Files generate-authors.sh and AUTHORS. . File man_1_simple_shell - Manual for our simple shell.
