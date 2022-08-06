@@ -12,8 +12,7 @@ File 2.0.av.c - (Write a program that prints all the arguments, without using ac
 File 2.1.Read_Line.c - (getline) Write a program that prints "$ ", wait for the user to enter a command,
 prints it on the next line.
 
-File 2.2.command_line_to_av.c - (strtok) Write a function that splits a string and returns an array of each word
-of the string.
+File 2.2.command_line_to_av.c - (strtok) Write a function that splits a string and returns an array of each word of the string.
 
 File 3.execve.c - Executing a program. The system call execve allows a process to execute another program (man 2 execve).
 Note that this system call does load the new program into the current process memory in place of the previous program:
