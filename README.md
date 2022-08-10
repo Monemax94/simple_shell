@@ -85,7 +85,7 @@ $
 No known bugs exists within the program as of this writing.
 
 ## Authors
-Chuks Stephen | [@sstephenchumphrey@yahoo.com](https://https://github.com/stephenchuks)
+Chuks Stephen | [@stephenchumphrey@yahoo.com](https://https://github.com/stephenchuks)
 
 Monday Odoh | [@mondayodoh94@gmail.com](https://github.com/Monemax94)
 
